@@ -1,0 +1,157 @@
+{
+    "projectsList": [
+        {
+            "id": 1,
+            "name": "Prodaja Karata",
+            "description": "Prodaja Karata website, a website for a ticket selling company from Serbia.",
+            "image": "images/projects/prodajaKarata.jpg",
+            "link": "https://prodajakarata.com/",
+            "technologies": "React.js",
+            "type": "Website"
+        },
+        {
+            "id": 2,
+            "name": "Quince Media",
+            "description": "Quince Media planet is a 3D web application that allows you to explore the planet of Quince Media.",
+            "image": "images/projects/quincePlanet.jpg",
+            "link": "https://quincecreative.github.io/quincePlanet/",
+            "technologies": "Babylon.js",
+            "type": "3D Presentation"
+        },
+        {
+            "id": 3,
+            "name": "GKN Automotive",
+            "description": "A 3D web presentation of products and services for GKN Automotive, company based in Germany.",
+            "image": "images/projects/gknAutomotive.jpg",
+            "link": "https://www.gknautomotive.com/static/5d/index.html",
+            "technologies": "Babylon.js",
+            "type": "3D Presentation"
+        },
+        {
+            "id": 4,
+            "name": "Audien Hearing",
+            "description": "A 3D web presentation of products and services for Audien Hearing, company based in USA.",
+            "image": "images/projects/audienHearing.jpg",
+            "link": "https://quincecreative.github.io/audien3DPresentationTest/",
+            "technologies": "Babylon.js",
+            "type": "3D Presentation"
+        },
+        {
+            "id": 5,
+            "name": "Pbierod Architektur",
+            "description": "An interactive presentation of projects for Pbierod Architektur, architecture firm based in Germany.",
+            "image": "images/projects/pbierodArchitektur.jpg",
+            "link": "https://www.pbierod-architektur.hamburg/en/projects",
+            "technologies": "Babylon.js, GSAP",
+            "type": "3D Presentation"
+        },
+        {
+            "id": 6,
+            "name": "Sandviper",
+            "description": "A 3D endless runner game for Sandviper, a company based in USA.",
+            "image": "images/projects/sandviper.jpg",
+            "link": "https://quincecreative.github.io/SandviperEndlessRunGamee/",
+            "technologies": "Babylon.js",
+            "type": "Game"
+        },
+        {
+            "id": 7,
+            "name": "Apparel Labs",
+            "description": "A 3D landing page for Apparel Lab, a company based in UK.",
+            "image": "images/projects/apparelLabs.jpg",
+            "link": "https://veljko85.github.io/jacket3DLandingPage/",
+            "technologies": "Babylon.js",
+            "type": "Landing Page"
+        },
+        {
+            "id": 8,
+            "name": "Humanizing Technologies",
+            "description": "An avatar 3D configurator, for Humanizing Technologies, company based in Austria.",
+            "image": "images/projects/avatar3dConfigurator.jpg",
+            "link": "https://veljko85.github.io/avatar3dConfigurator/",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        },
+        {
+            "id": 9,
+            "name": "Mega Holz",
+            "description": "3D configurator for fences, for Mega Holz, a company based in Germany.",
+            "image": "images/projects/megaHolz.jpg",
+            "link": "https://mega-holz.de/zaunplaner/easy-fence/",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        },
+        {
+            "id": 10,
+            "name": "Jasperosso",
+            "description": "3D configurator for shoes, for Jasperosso shoes company from UK.",
+            "image": "images/projects/jasperosso.jpg",
+            "link": "https://staging.jasperosso.com/bespoke-italian-leather/shoes/sneakers-womens/recanati/b0075ca5-e6ca-40a6-b579-71ae1c2189aa/configurator?design=10b94b1f-0f2d-4bfd-8a78-bec1937127ba",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        },
+        {
+            "id": 11,
+            "name": "Memorials",
+            "description": "3D configurator for a loved one, for headstone designer from UK.",
+            "image": "images/projects/memorials.jpg",
+            "link": "https://quincecreative.github.io/memorials_3d_configurator/",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        },
+        {
+            "id": 12,
+            "name": "Vertical",
+            "description": "Video presentation for Vertical, a company from Israel and Canada.",
+            "image": "images/projects/vertical.jpg",
+            "link": "https://veljko85.github.io/theVertical/",
+            "technologies": "JavaScript",
+            "type": "Video Presentation"
+        },
+        {
+            "id": 13,
+            "name": "The Sylvie",
+            "description": "3D presentation of The Sylvie bag by Gucci.",
+            "image": "images/projects/gucciTheSylvie.jpg",
+            "link": "https://quincecreative.github.io/GucciSylvieBag/",
+            "technologies": "Babylon.js",
+            "type": "3D Presentation"
+        },
+        {
+            "id": 14,
+            "name": "Smexx",
+            "description": "Landing page for Smexx, a company from Serbia.",
+            "image": "images/projects/smexx.jpg",
+            "link": "https://quincecreative.github.io/smexx/",
+            "technologies": "Babylon.js",
+            "type": "Landing Page"
+        },
+        {
+            "id": 15,
+            "name": "Quince Hero",
+            "description": "Landing page for Quince Media.",
+            "image": "images/projects/quinceHero.jpg",
+            "link": "https://quincecreative.github.io/quinceHero/",
+            "technologies": "Babylon.js",
+            "type": "Landing Page"
+        },
+        {
+            "id": 16,
+            "name": "Sandviper",
+            "description": "3D configurator for Sandviper, Renardi sneakers model.",
+            "image": "images/projects/renardi3DConfigurator.jpg",
+            "link": "https://quincecreative.github.io/renardi3DConfigurator/",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        },
+        {
+            "id": 17,
+            "name": "Wayb Pico",
+            "description": "3D configurator for Wayb Pico, car seat company from USA.",
+            "image": "images/projects/waybPico.jpg",
+            "link": "https://veljko85.github.io/wayb-pico/",
+            "technologies": "Babylon.js",
+            "type": "3D Configurator"
+        }
+    ]
+}
