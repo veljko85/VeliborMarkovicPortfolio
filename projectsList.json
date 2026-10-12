@@ -32,7 +32,7 @@
             "name": "Audien Hearing",
             "description": "A 3D web presentation of products and services for Audien Hearing, company based in USA.",
             "image": "images/projects/audienHearing.jpg",
-            "link": "https://quincecreative.github.io/audien3DPresentationTest/",
+            "link": "https://veljko85.github.io/audien3DPresentations/",
             "technologies": "Babylon.js",
             "type": "3D Presentation"
         },
@@ -50,7 +50,7 @@
             "name": "Sandviper",
             "description": "A 3D endless runner game for Sandviper, a company based in USA.",
             "image": "images/projects/sandviper.jpg",
-            "link": "https://quincecreative.github.io/SandviperEndlessRunGamee/",
+            "link": "https://veljko85.github.io/SandviperEndlessRunGamee/",
             "technologies": "Babylon.js",
             "type": "Game"
         },
@@ -95,7 +95,7 @@
             "name": "Memorials",
             "description": "3D configurator for a loved one, for headstone designer from UK.",
             "image": "images/projects/memorials.jpg",
-            "link": "https://quincecreative.github.io/memorials_3d_configurator/",
+            "link": "https://veljko85.github.io/memorials_3d_configurator/",
             "technologies": "Babylon.js",
             "type": "3D Configurator"
         },
@@ -113,7 +113,7 @@
             "name": "The Sylvie",
             "description": "3D presentation of The Sylvie bag by Gucci.",
             "image": "images/projects/gucciTheSylvie.jpg",
-            "link": "https://quincecreative.github.io/GucciSylvieBag/",
+            "link": "https://veljko85.github.io/GucciSylvieBag/",
             "technologies": "Babylon.js",
             "type": "3D Presentation"
         },
@@ -122,7 +122,7 @@
             "name": "Smexx",
             "description": "Landing page for Smexx, a company from Serbia.",
             "image": "images/projects/smexx.jpg",
-            "link": "https://quincecreative.github.io/smexx/",
+            "link": "https://veljko85.github.io/smexx/",
             "technologies": "Babylon.js",
             "type": "Landing Page"
         },
@@ -140,7 +140,7 @@
             "name": "Sandviper",
             "description": "3D configurator for Sandviper, Renardi sneakers model.",
             "image": "images/projects/renardi3DConfigurator.jpg",
-            "link": "https://quincecreative.github.io/renardi3DConfigurator/",
+            "link": "https://veljko85.github.io/renardi/",
             "technologies": "Babylon.js",
             "type": "3D Configurator"
         },
